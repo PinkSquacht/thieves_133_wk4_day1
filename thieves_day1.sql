@@ -1,3 +1,3 @@
-SELECT first_name, last_name
+SELECT *
 FROM actor
-WHERE first_name LIKE 'k__';
+WHERE actor_id;
